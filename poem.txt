@@ -4,6 +4,7 @@ purple
 pink
 orange
 BLUE
+white
 Green
 unicorn
 Yellow
